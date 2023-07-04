@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: brown;
+}
+
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color:coral
+}
+
+#app{
+    background-color: aliceblue;
+}
+
+#jogos{
+    background-color: lightseagreen;
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width: 60px;
+    margin: 8px auto;
+}
+
+
+.container{ background-color: mediumaquamarine; }
+
+#myCarousel { background-color: red; }
+
+#myCarousel img { height: 300px; margin-top: 35px; }
+
+.carousel-inner p { margin-top: 15px; color : white; font-size: 20px; }
